@@ -1,0 +1,5 @@
+mode: "multifrequency"
+frequency : 29 #GHz
+fi_bw : 100
+npoints: 20
+time_interval: 1 #Minutes
